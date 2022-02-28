@@ -162,7 +162,7 @@
 }
 /*------------------------------------------------------------------ HEADER -------------------------------------------------------------------*/
  .main-top{
-     background: #010101;
+     background-color: ghostwhite;
      padding: 10px 0px;
 }
  .custom-select-box{
@@ -235,6 +235,7 @@
      font-family: 'Montserrat', sans-serif;
 }
  .offer-box li {
+	 color: black;
      font-weight: 600;
 }
  .offer-box li i{
@@ -269,10 +270,10 @@
  .main-header{
 }
  .search a{
-     color: #d33b33;
+     color: hotpink;
 }
  .attr-nav > ul > li > a:hover{
-     color: #d33b33;
+     color: orange;
 }
  nav.navbar.bootsnav ul.nav > li > a{
      margin: 0px;
@@ -461,23 +462,23 @@
      position: relative;
      font-weight: 700;
      font-size: 16px;
-     color: #010101;
+     color: white;
      padding-top: 30px;
      padding-bottom: 30px;
      padding-left: 10px;
      padding-right: 30px;
 }
  nav.navbar.bootsnav ul.nav li.active > a{
-     color: #d33b33;
+     color: hotpink;
 }
  nav.navbar.bootsnav ul.nav li.active > a:hover{
-     color: #d33b33;
+     color: orange;
 }
  nav.navbar.bootsnav ul.nav li > a:hover{
-     color: #d33b33;
+     color: orange;
 }
  nav.navbar.bootsnav ul.nav li.megamenu-fw > a:hover{
-     color: #d33b33;
+     color: orange;
 }
  @media (min-width: 1024px) {
      nav.navbar.navbar-inverse ul.nav .dropdown-menu{
